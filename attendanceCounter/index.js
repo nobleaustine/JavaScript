@@ -1,0 +1,1 @@
+document.getElementById("count").innertext = 6

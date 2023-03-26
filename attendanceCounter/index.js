@@ -1,1 +1,1 @@
-document.getElementById("count").innertext = 6
+document.getElementById("count").innerHTML = 6

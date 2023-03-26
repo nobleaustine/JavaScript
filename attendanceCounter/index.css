@@ -16,6 +16,26 @@ h2{
     margin-top: 0px;
     margin-bottom: 20px;
 }
+ 
+button{
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+    width: 200px;
+    height:40px;
+    margin-bottom: 5px;
+    border-radius:5px
+
+
+  }
+p{
+    margin-top: 0px;
+    margin-bottom: 20px;
+
+}
 
 #count {
     background-color: lightblue;
@@ -24,3 +44,26 @@ h2{
     padding: 40px;
     text-align: center;
   }
+
+#period {
+
+    font-size: 30px;
+    color: white;
+    padding: 30px;
+    text-align: center;
+    background-color: blackgit;
+  }
+  
+#incrementButton{
+    background: darkred;
+    
+}
+
+#saveButton{
+    background: darkgreen;
+    
+}
+#clearButton{
+    background: darkblue;
+    
+}
